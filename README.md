@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saheed Adekunle Raji (Ph.D)
-- 👀 I’m interested in land change science, ecosystem service modeling, geo-sustainability sciences, and spatially-explicit research.
-- 🌱 I’m currently working on a research that investigates the driving factors of soil erosion in a tropical sedimentary basin using MLR.
-- 💞️ I’m looking for collaborations on understanding the spatial dynamics influencing the food-water-climate nexus from the natural capital approach.
+- 👀 A Data Analyst and a researcher with expertise in Computational Geography, Spatial Sustainability, Land Change Science, Ecosystem Service Modeling,  Spatially-Explicit Research, and Environmental Sociology.
+- 🌱 I’m currently working on a research that investigates the Drivers of Sub-Saharan Africa Countries towards Achieving the Sustainable Development Goals using A(Spatial) Computational Analytics.
+- 💞️ I’m available for research collaborations.
 - 📫 Feel free to mail me: rsa.oluwaseun@gmail.com; SARaji@co.pg.md.us
 <!---
 rsaseun/rsaseun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
