@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saheed Adekunle Raji
+- 👋 Hi, I’m Saheed Adekunle Raji (Ph.D)
 - 👀 I’m interested in land change science, ecosystem service modeling, geo-sustainability sciences, and spatially-explicit research.
 - 🌱 I’m currently working on a research that investigates the driving factors of soil erosion in a tropical sedimentary basin using MLR.
 - 💞️ I’m looking for collaborations on understanding the spatial dynamics influencing the food-water-climate nexus from the natural capital approach.
